@@ -40,7 +40,7 @@ const Quiz = ({ quizQuestionsLive, teaserQuestion }) => {
           factSectionFaded: true,
           teaserState: true,
         }),
-      4000
+      400
     );
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
